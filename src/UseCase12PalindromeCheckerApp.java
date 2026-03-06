@@ -1,4 +1,4 @@
-public class UseCase12PalindromeCheckerApp {
+public class UseCase13PalindromeCheckerApp {
     
     public boolean check(String input) {
         // Create a stack to store characters
